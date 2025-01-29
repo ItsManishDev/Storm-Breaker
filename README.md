@@ -84,10 +84,11 @@
 ### Installation On Kali Linux
 
 ```
+apt update
 git clone https://github.com/ultrasecurity/Storm-Breaker
 cd Storm-Breaker
 sudo bash install.sh
-sudo python3 -m pip install -r requirements.txt
+apt install python3-colorama python3-psutil python3-requests
 sudo python3 st.py
 ```
 
