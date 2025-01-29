@@ -1,0 +1,115 @@
+[Wed Jan 29 09:00:44 2025] PHP 8.2.24 Development Server (http://localhost:2525) started
+[Wed Jan 29 09:00:49 2025] [::1]:48524 Accepted
+[Wed Jan 29 09:00:50 2025] [::1]:48524 [302]: GET /
+[Wed Jan 29 09:00:50 2025] [::1]:48524 Closing
+[Wed Jan 29 09:00:50 2025] [::1]:48540 Accepted
+[Wed Jan 29 09:00:50 2025] [::1]:48540 [200]: GET /login.php
+[Wed Jan 29 09:00:50 2025] [::1]:48540 Closing
+[Wed Jan 29 09:00:50 2025] [::1]:48542 Accepted
+[Wed Jan 29 09:00:50 2025] [::1]:48542 [200]: GET /assets/css/bootstrap.min.css
+[Wed Jan 29 09:00:50 2025] [::1]:48544 Accepted
+[Wed Jan 29 09:00:50 2025] [::1]:48542 Closing
+[Wed Jan 29 09:00:50 2025] [::1]:48544 [200]: GET /assets/css/style.css
+[Wed Jan 29 09:00:50 2025] [::1]:48544 Closing
+[Wed Jan 29 09:00:50 2025] [::1]:48560 Accepted
+[Wed Jan 29 09:00:50 2025] [::1]:48560 [404]: GET /favicon.ico - No such file or directory
+[Wed Jan 29 09:00:50 2025] [::1]:48560 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43848 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43848 [200]: POST /login.php
+[Wed Jan 29 09:00:56 2025] [::1]:43848 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43862 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43862 [200]: GET /assets/css/bootstrap.min.css
+[Wed Jan 29 09:00:56 2025] [::1]:43862 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43866 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43866 [200]: GET /assets/css/style.css
+[Wed Jan 29 09:00:56 2025] [::1]:43866 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43880 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43880 [200]: GET /panel.php
+[Wed Jan 29 09:00:56 2025] [::1]:43880 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43896 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43896 [200]: GET /assets/css/bootstrap.min.css
+[Wed Jan 29 09:00:56 2025] [::1]:43896 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43908 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43908 [200]: GET /assets/css/light-theme.min.css
+[Wed Jan 29 09:00:56 2025] [::1]:43924 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43908 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43928 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43924 [200]: GET /assets/js/jquery.min.js
+[Wed Jan 29 09:00:56 2025] [::1]:43944 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43928 [200]: GET /assets/js/script.js
+[Wed Jan 29 09:00:56 2025] [::1]:43950 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43944 [200]: GET /assets/js/sweetalert2.min.js
+[Wed Jan 29 09:00:56 2025] [::1]:43924 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43950 [200]: GET /assets/js/growl-notification.min.js
+[Wed Jan 29 09:00:56 2025] [::1]:43928 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43944 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43950 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43966 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43966 [200]: GET /Settings.json
+[Wed Jan 29 09:00:56 2025] [::1]:43966 Closing
+[Wed Jan 29 09:00:56 2025] [::1]:43970 Accepted
+[Wed Jan 29 09:00:56 2025] [::1]:43970 [200]: POST /list_templates.php
+[Wed Jan 29 09:00:56 2025] [::1]:43970 Closing
+[Wed Jan 29 09:00:59 2025] [::1]:43982 Accepted
+[Wed Jan 29 09:00:59 2025] [::1]:43982 [200]: POST /receiver.php
+[Wed Jan 29 09:00:59 2025] [::1]:43982 Closing
+[Wed Jan 29 09:01:01 2025] [::1]:54750 Accepted
+[Wed Jan 29 09:01:01 2025] [::1]:54750 [200]: POST /receiver.php
+[Wed Jan 29 09:01:01 2025] [::1]:54750 Closing
+[Wed Jan 29 09:01:03 2025] [::1]:54754 Accepted
+[Wed Jan 29 09:01:03 2025] [::1]:54754 [200]: GET /templates/microphone/index.html
+[Wed Jan 29 09:01:03 2025] [::1]:54762 Accepted
+[Wed Jan 29 09:01:03 2025] [::1]:54754 Closing
+[Wed Jan 29 09:01:03 2025] [::1]:54762 [200]: GET /assets/js/jquery.min.js
+[Wed Jan 29 09:01:03 2025] [::1]:54762 Closing
+[Wed Jan 29 09:01:03 2025] [::1]:54776 Accepted
+[Wed Jan 29 09:01:03 2025] [::1]:54776 [200]: GET /assets/js/client.min.js
+[Wed Jan 29 09:01:03 2025] [::1]:54792 Accepted
+[Wed Jan 29 09:01:03 2025] [::1]:54776 Closing
+[Wed Jan 29 09:01:03 2025] [::1]:54792 [200]: GET /assets/js/loc.js
+[Wed Jan 29 09:01:03 2025] [::1]:54792 Closing
+[Wed Jan 29 09:01:03 2025] [::1]:54804 Accepted
+[Wed Jan 29 09:01:03 2025] [::1]:54804 [200]: GET /assets/js/recorder.js
+[Wed Jan 29 09:01:03 2025] [::1]:54808 Accepted
+[Wed Jan 29 09:01:03 2025] [::1]:54804 Closing
+[Wed Jan 29 09:01:03 2025] [::1]:54808 [200]: GET /templates/microphone/js/_app.js
+[Wed Jan 29 09:01:03 2025] [::1]:54808 Closing
+[Wed Jan 29 09:01:03 2025] [::1]:54818 Accepted
+[Wed Jan 29 09:01:03 2025] [::1]:54818 [200]: POST /receiver.php
+[Wed Jan 29 09:01:03 2025] [::1]:54818 Closing
+[Wed Jan 29 09:01:04 2025] [::1]:54834 Accepted
+[Wed Jan 29 09:01:04 2025] [::1]:54834 [200]: POST /templates/microphone/handler.php
+[Wed Jan 29 09:01:04 2025] [::1]:54834 Closing
+[Wed Jan 29 09:01:05 2025] [::1]:54836 Accepted
+[Wed Jan 29 09:01:05 2025] [::1]:54836 [200]: POST /receiver.php
+[Wed Jan 29 09:01:05 2025] [::1]:54836 Closing
+[Wed Jan 29 09:01:08 2025] [::1]:54838 Accepted
+[Wed Jan 29 09:01:08 2025] [::1]:54838 [200]: POST /receiver.php
+[Wed Jan 29 09:01:08 2025] [::1]:54838 Closing
+[Wed Jan 29 09:01:10 2025] [::1]:54854 Accepted
+[Wed Jan 29 09:01:10 2025] [::1]:54854 [200]: POST /receiver.php
+[Wed Jan 29 09:01:10 2025] [::1]:54854 Closing
+[Wed Jan 29 09:01:12 2025] [::1]:52164 Accepted
+[Wed Jan 29 09:01:12 2025] [::1]:52164 [200]: POST /receiver.php
+[Wed Jan 29 09:01:12 2025] [::1]:52164 Closing
+[Wed Jan 29 09:01:14 2025] [::1]:52176 Accepted
+[Wed Jan 29 09:01:14 2025] [::1]:52176 [200]: POST /receiver.php
+[Wed Jan 29 09:01:14 2025] [::1]:52176 Closing
+[Wed Jan 29 09:01:16 2025] [::1]:52178 Accepted
+[Wed Jan 29 09:01:16 2025] [::1]:52178 [200]: POST /receiver.php
+[Wed Jan 29 09:01:16 2025] [::1]:52178 Closing
+[Wed Jan 29 09:01:18 2025] [::1]:52184 Accepted
+[Wed Jan 29 09:01:18 2025] [::1]:52184 [200]: POST /receiver.php
+[Wed Jan 29 09:01:18 2025] [::1]:52184 Closing
+[Wed Jan 29 09:01:20 2025] [::1]:52188 Accepted
+[Wed Jan 29 09:01:20 2025] [::1]:52188 [200]: POST /receiver.php
+[Wed Jan 29 09:01:20 2025] [::1]:52188 Closing
+[Wed Jan 29 09:01:22 2025] [::1]:52080 Accepted
+[Wed Jan 29 09:01:22 2025] [::1]:52080 [200]: POST /receiver.php
+[Wed Jan 29 09:01:22 2025] [::1]:52080 Closing
+[Wed Jan 29 09:01:24 2025] [::1]:52086 Accepted
+[Wed Jan 29 09:01:24 2025] [::1]:52086 [200]: POST /receiver.php
+[Wed Jan 29 09:01:24 2025] [::1]:52086 Closing
+[Wed Jan 29 09:01:26 2025] [::1]:52100 Accepted
+[Wed Jan 29 09:01:26 2025] [::1]:52100 [200]: POST /receiver.php
+[Wed Jan 29 09:01:26 2025] [::1]:52100 Closing
