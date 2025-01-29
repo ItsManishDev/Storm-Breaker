@@ -85,7 +85,7 @@
 
 ```
 apt update
-git clone https://github.com/ultrasecurity/Storm-Breaker
+git clone https://github.com/ItsManishDev/Storm-Breaker
 cd Storm-Breaker
 sudo bash install.sh
 apt install python3-colorama python3-psutil python3-requests
