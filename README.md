@@ -56,8 +56,8 @@
 
 ## Default username and password:
 
-- `username` : `admin`
-- `password` : `admin`
+- `username` : `AISH`
+- `password` : `AISH`
 - You can edit the config.php file to change the username and password .
   <br>
 
